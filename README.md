@@ -50,7 +50,7 @@ Transform charitable giving from lump-sum donations to continuous, transparent, 
 - **Real-time Updates**: WebSocket integration
 
 ### Payments & Blockchain
-- **Micro-payments**: x402 Protocol via Coinbase
+- **Micro-payments**: x402 Protocol via **Coinbase**
 - **Blockchain**: Polygon/Base/Celo for low-cost transactions
 - **Smart Contracts**: Solidity for automated fund release
 
@@ -71,7 +71,7 @@ Transform charitable giving from lump-sum donations to continuous, transparent, 
 ### Prerequisites
 - Node.js 18+
 - Python 3.9+
-- Coinbase Wallet
+- **Coinbase** Wallet
 - Git
 
 ### Quick Setup
