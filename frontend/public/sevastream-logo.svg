@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="24" fill="url(#gradient0_linear_1_1)"/>
+  <path d="M20 64C20 50 30 40 44 40H84C98 40 108 50 108 64C108 78 98 88 84 88H44C30 88 20 78 20 64Z" fill="white" fill-opacity="0.9"/>
+  <path d="M30 64C30 56 36 50 44 50H64C72 50 78 56 78 64C78 72 72 78 64 78H44C36 78 30 72 30 64Z" fill="url(#gradient1_linear_1_1)"/>
+  <circle cx="64" cy="64" r="8" fill="white"/>
+  <text x="64" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SevaStream</text>
+  <defs>
+    <linearGradient id="gradient0_linear_1_1" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#667EEA"/>
+      <stop offset="1" stop-color="#764BA2"/>
+    </linearGradient>
+    <linearGradient id="gradient1_linear_1_1" x1="30" y1="50" x2="78" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+</svg>
