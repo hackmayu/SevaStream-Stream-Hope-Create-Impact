@@ -15,7 +15,7 @@ A revolutionary platform enabling micro-donations and real-time aid distribution
 *Real-time donation metrics, active streams counter, and navigation overview*
 
 ### 💰 Donation Portal
-![Donation Portal](./screenshots/donation.png)
+![Donation Portal](./screenshots/donate.png)
 *USDC donation interface with wallet connection and cause selection*
 
 ## ✨ We Have Many More Features
