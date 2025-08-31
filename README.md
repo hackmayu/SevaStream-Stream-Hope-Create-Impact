@@ -71,7 +71,7 @@ Transform charitable giving from lump-sum donations to continuous, transparent, 
 ### Prerequisites
 - Node.js 18+
 - Python 3.9+
-- Metamask or Coinbase Wallet
+- Coinbase Wallet
 - Git
 
 ### Quick Setup
