@@ -12,5 +12,17 @@ echo Setting main branch...
 git branch -M main
 echo Pushing to GitHub...
 git push -u origin main
-echo Done! Your code has been pushed to GitHub.
+
+echo.
+echo ====================================
+echo Pushing Updated README.md Changes
+echo ====================================
+echo Adding new README.md changes...
+git add README.md
+echo Committing README updates...
+git commit -m "Enhanced README.md with screenshots section and feature highlights"
+echo Pushing README updates to GitHub...
+git push origin main
+echo.
+echo Done! Your updated README.md has been pushed to GitHub.
 pause
